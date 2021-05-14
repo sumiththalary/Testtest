@@ -1,1 +1,8 @@
 created file to test the merge request
+
+created file to test the merge request. 
+
+need to know the commands to create a merge reqest from the git lab
+
+
+
